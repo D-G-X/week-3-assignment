@@ -19,10 +19,10 @@ body{
 }
 #logo{
     background: url("/logo2.PNG") no-repeat;
-	width: 123px;
-	height: 110px;
-	margin: 10px 15px 10px 5px;
-	border: 2px solid #FFFFFF;
+    width: 128px;
+    height: 115px;
+    margin: 10px 15px 10px 5px;
+    border: 1px solid #FFFFFF;
 }
 
 .navbar-brand {
